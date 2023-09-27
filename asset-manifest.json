@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/News-Project/static/css/main.31d6cfe0.css",
+    "main.js": "/News-Project/static/js/main.8c5e6616.js",
+    "index.html": "/News-Project/index.html",
+    "main.8c5e6616.js.map": "/News-Project/static/js/main.8c5e6616.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.8c5e6616.js"
+  ]
+}
